@@ -4,4 +4,6 @@ Personal notes regarding Virtual Observatory usage through python.
 
 Libraries tested so far:
 *  [pyVO](http://pyvo.readthedocs.org/en/latest/) a quick and easy way to start using VO
+ * [Tutorial 1](https://github.com/fnava/ipython_vo/blob/master/first_vosample.ipynb) to discover archives, search and download images
+ * [Tutorial 2]() for simple image treatment, following published VO tutorials.
 
